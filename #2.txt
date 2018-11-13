@@ -1,1 +1,2 @@
 Print("Second direktoty")
+Print("Info")
